@@ -7,9 +7,9 @@ const App = () => {
   return (
     <>
       <Header />
-      <section>
-        <Card />
-        <Card />
+      <section className='cards'>
+        <Card className='card' />
+        <Card className='card' />
         <Card />
       </section>
     </>

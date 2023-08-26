@@ -13,11 +13,3 @@ code {
     monospace;
 }
 
-a {
-  border: solid 2px #000000;
-}
-
-.cards {
-  display: flex;
-  flex-wrap: wrap;
-}

@@ -1,7 +1,8 @@
 const Header = () => {
     return (
         <div> 
-            <h1>Hello World</h1>
+            <h1>Robot Friends</h1>
+            <p>The ony friends you will ever need</p>
         </div>
     )
 }
