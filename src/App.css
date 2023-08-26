@@ -1,9 +1,0 @@
-.cards {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-card {
-  margin: 2px solid;
-  padding: 5%;
-}
