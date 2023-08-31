@@ -1,7 +1,6 @@
 import Card from './Card';
-import { robots } from './robots';
 
-const CardList = () => {
+const CardList = ({ robots }) => {
     return(
         <section>
            {
